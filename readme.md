@@ -1,5 +1,5 @@
 Nama lengkap: Luthfi Ferdian
-Hobi: billiard
+Hobi: berenang
 Warna kesukaan: biru tua
 Hewan kesukaan: harimau
 Buah kesukaan: rambutan
