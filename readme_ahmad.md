@@ -1,0 +1,1 @@
+nama lengkap: ahmad rivaldhi
