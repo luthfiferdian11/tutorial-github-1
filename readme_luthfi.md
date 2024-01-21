@@ -1,4 +1,5 @@
 nama: Furqon
-hobi: sepedahan
+hobi: mengarungi samudra
 Warna Favorite: Hitam
 Makanan Favorite: Indomie
+
