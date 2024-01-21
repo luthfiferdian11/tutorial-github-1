@@ -1,2 +1,2 @@
 nama: Furqon
-hobi: main game
+hobi: sepedahan
