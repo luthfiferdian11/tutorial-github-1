@@ -1,2 +1,2 @@
-nama:luthfi
-hobi:main game
+nama: Furqon
+hobi: main game
